@@ -1,4 +1,4 @@
-# E-Commerce Site - Quick Start Guide
+# COMMERCE - Quick Start Guide
 
 ## 🚀 Getting Started
 
@@ -116,7 +116,7 @@ Use the default test account:
 ## 📁 Project Structure
 
 ```
-ecommerce-site/
+commerce/
 ├── app/
 │   ├── Http/
 │   │   └── Controllers/
